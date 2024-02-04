@@ -3,6 +3,7 @@
 - [Общая информация [gasq.org]](https://www.gasq.org/ru/modules/istqb.html)
 
 ## Материалы:
+
 - [Artsiom Rusau QA Life - Сертификация для тестировщиков ISTQB. Как подготовиться к экзамену?](https://www.youtube.com/watch?v=vkFT3iLFna0)
 - [Материалы ISTQB](https://www.rstqb.org/ru/istqb-downloads.html)
 - [Глоссарий ISTQB](https://glossary.istqb.org/ru/search/)
@@ -11,6 +12,7 @@
 
 
 ## Тренажеры:
+
 - [istqb-training.ru](https://istqb-training.ru/)
 - [[Stepik] ISTQB - Программа обучения Базового уровня (версия 2018)](https://stepik.org/course/123896/info)
 - [Test Mentor for ISTQB](https://play.google.com/store/apps/details?id=com.istqbtestmentor&hl=ru&gl=US)
